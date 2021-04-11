@@ -2,7 +2,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nub-sir&label=Profile%20views&color=0e75b6&style=plastic" alt="nub-sir" /> </p>
 
-
+[![telegram badge](https://img.shields.io/badge/Jacky_xD-30302f?style=flat&logo=telegram)](https://t.me/jacky_xd)
 
 - 🔭 I’m currently working on [Sethx-bot](https://github.com/nub-sir/sethx-bot)
 - 🤔 I’m looking for help with Sethx-bot
