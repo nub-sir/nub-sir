@@ -6,7 +6,7 @@
 
 
 - 📫 How to reach me: **TELEGRAM - [@Jacky_xD](https://t.me/jacky_xd)**
-- ⚡ Fun fact: **I'm still nub**
+- ⚡ Fun fact: **I'm noob**
 #### WHAT I USE 
 <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
 
